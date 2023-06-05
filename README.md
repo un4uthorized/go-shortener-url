@@ -46,5 +46,4 @@ Response body:
 ![Architecture](./docs/shortener-url-arch.png)
 
 ## References
-- [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/1793464137)
-- [URL Shortener](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+- [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
